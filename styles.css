@@ -9,11 +9,17 @@
 }
 .inner{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: x-large;
+    font-size: 100px;
     text-align: center;
     position: relative;
     bottom: 45vh;
     color: aliceblue;
     font-weight: 900;
+}
+.ordinary{
+    padding-top: 20px;
+    font-size: 19px;
+}
+.button{
     
 }
