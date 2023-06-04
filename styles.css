@@ -1,5 +1,8 @@
+.first{
+    background-color: #3E2C41;
+}
 .first > img{
     height: 70vh;
     width: 100%;
-    opacity: 0.9;
+    opacity: 0.8;
 }
