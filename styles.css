@@ -5,10 +5,15 @@
 .first > img{
     height: 70vh;
     width: 100%;
-    opacity: 0.8;
+    opacity: 0.55;
 }
 .inner{
-    z-index: -3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
     position: relative;
-    margin-bottom: 2000px;
+    bottom: 45vh;
+    color: aliceblue;
+    font-weight: 900;
+    
 }
