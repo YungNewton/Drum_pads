@@ -21,5 +21,8 @@
     font-size: 19px;
 }
 .button{
-    
+    border-radius: 50px;
+    font-size: 20px;
+    width: 25vh;
+    background-color: #6E85B2;
 }
