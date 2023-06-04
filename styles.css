@@ -7,7 +7,8 @@
     width: 100%;
     opacity: 0.8;
 }
-body{
-    margin: 0%;
-
+.inner{
+    z-index: -3;
+    position: relative;
+    margin-bottom: 2000px;
 }
