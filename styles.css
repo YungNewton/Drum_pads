@@ -1,8 +1,13 @@
 .first{
     background-color: #3E2C41;
+    height: 70vh;
 }
 .first > img{
     height: 70vh;
     width: 100%;
     opacity: 0.8;
+}
+body{
+    margin: 0%;
+
 }
