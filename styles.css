@@ -30,4 +30,8 @@
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-button
+.pads{
+    width: 15vh;
+    height: 15vh;
+    margin: 10px;
+}
